@@ -5,96 +5,96 @@ Python source code for solving Baekjoon Problems. <br>
 <br>
 Solved Problem<br>
 ----
-<details open>
+<details>
 <summary><h4>2021-12-20</h4></summary>
-- No.1000
-- No.1001
-- No.1008
-- No.1330
-- No.2438
-- No.2439
-- No.2557
-- No.2588
-- No.2741
-- No.2742
-- No.2753
-- No.2793
-- No.2884
-- No.8393
-- No.9498
-- No.10171
-- No.10172
-- No.10430
-- No.10718
-- No.10869
-- No.10871
-- No.10950
-- No.10998
-- No.11021
-- No.11022
-- No.14681
-- No.15522
+- No.1000<br>
+- No.1001<br>
+- No.1008<br>
+- No.1330<br>
+- No.2438<br>
+- No.2439<br>
+- No.2557<br>
+- No.2588<br>
+- No.2741<br>
+- No.2742<br>
+- No.2753<br>
+- No.2793<br>
+- No.2884<br>
+- No.8393<br>
+- No.9498<br>
+- No.10171<br>
+- No.10172<br>
+- No.10430<br>
+- No.10718<br>
+- No.10869<br>
+- No.10871<br>
+- No.10950<br>
+- No.10998<br>
+- No.11021<br>
+- No.11022<br>
+- No.14681<br>
+- No.15522<br>
 </details>
 
-<details open>
+<details>
 <summary><h4>2021-12-21<h4></summary>
-- No.1065
-- No.1110
-- No.1152
-- No.1157
-- No.1316
-- No.1546
-- No.2562
-- No.2577
-- No.2675
-- No.2908
-- No.2941
-- No.3052
-- No.4344
-- No.4673
-- No.5622
-- No.8958
-- No.10809
-- No.10818
-- No.10951
-- No.10952
-- No.11654
-- No.11720
-- No.15596
--------------
-- No.1002
-- No.1011
-- No.1085
-- No.1193
-- No.1712
-- No.1929
-- No.1978
-- No.2292
-- No.2581
-- No.2775
-- No.2839
-- No.2869
-- No.3009
-- No.3053
-- No.4153
-- No.4948
-- No.4949
-- No.9012
-- No.9020
-- No.10250
-- No.10757
-- No.10773
-- No.10828
-- No.11653
+- No.1065<br>
+- No.1110<br>
+- No.1152<br>
+- No.1157<br>
+- No.1316<br>
+- No.1546<br>
+- No.2562<br>
+- No.2577<br>
+- No.2675<br>
+- No.2908<br>
+- No.2941<br>
+- No.3052<br>
+- No.4344<br>
+- No.4673<br>
+- No.5622<br>
+- No.8958<br>
+- No.10809<br>
+- No.10818<br>
+- No.10951<br>
+- No.10952<br>
+- No.11654<br>
+- No.11720<br>
+- No.15596<br>
+-------------<br>
+- No.1002<br>
+- No.1011<br>
+- No.1085<br>
+- No.1193<br>
+- No.1712<br>
+- No.1929<br>
+- No.1978<br>
+- No.2292<br>
+- No.2581<br>
+- No.2775<br>
+- No.2839<br>
+- No.2869<br>
+- No.3009<br>
+- No.3053<br>
+- No.4153<br>
+- No.4948<br>
+- No.4949<br>
+- No.9012<br>
+- No.9020<br>
+- No.10250<br>
+- No.10757<br>
+- No.10773<br>
+- No.10828<br>
+- No.11653<br>
 </details>
 
-<details open>
+<details>
 <summary><h4>2021-12-22<h4></summary>
- - No.1002
- - No.2231
- - No.2447
- - No.2798
- - No.10870
- - No.10872
- - No.11729
+ - No.1002<br>
+ - No.2231<br>
+ - No.2447<br>
+ - No.2798<br>
+ - No.10870<br>
+ - No.10872<br>
+ - No.11729<br>
 </details>
