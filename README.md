@@ -5,7 +5,8 @@ Python source code for solving Baekjoon Problems. <br>
 <br>
 Solved Problem<br>
 ----
-#### 2021-12-20
+<details open>
+<summary><h4>2021-12-20</h4></summary>
 - No.1000
 - No.1001
 - No.1008
@@ -33,8 +34,10 @@ Solved Problem<br>
 - No.11022
 - No.14681
 - No.15522
+</details>
 
-#### 2021-12-21 - 1
+<details open>
+<summary><h4>2021-12-21<h4></summary>
 - No.1065
 - No.1110
 - No.1152
@@ -58,8 +61,7 @@ Solved Problem<br>
 - No.11654
 - No.11720
 - No.15596
-
-#### 2021-12-21 - 2
+-------------
 - No.1002
 - No.1011
 - No.1085
@@ -84,3 +86,15 @@ Solved Problem<br>
 - No.10773
 - No.10828
 - No.11653
+</details>
+
+<details open>
+<summary><h4>2021-12-22<h4></summary>
+ - No.1002
+ - No.2231
+ - No.2447
+ - No.2798
+ - No.10870
+ - No.10872
+ - No.11729
+</details>
