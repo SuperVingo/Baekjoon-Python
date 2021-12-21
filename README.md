@@ -1,9 +1,9 @@
 # Baejoon Solutions 
-[![Baekjoon](https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png)](https://www.acmicpc.net/)
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-Python source code for solving Baekjoon Problems. 
-
-Solved Problem
+[![Baekjoon](https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png)](https://www.acmicpc.net/)<br>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><br>
+Python source code for solving Baekjoon Problems. <br>
+<br>
+Solved Problem<br>
 ----
 #### 2021-12-20
 - No.1000
@@ -60,27 +60,27 @@ Solved Problem
 - No.15596
 
 #### 2021-12-21 - 2
-No.1002
-No.1011
-No.1085
-No.1193
-No.1712
-No.1929
-No.1978
-No.2292
-No.2581
-No.2775
-No.2839
-No.2869
-No.3009
-No.3053
-No.4153
-No.4948
-No.4949
-No.9012
-No.9020
-No.10250
-No.10757
-No.10773
-No.10828
-No.11653
+- No.1002
+- No.1011
+- No.1085
+- No.1193
+- No.1712
+- No.1929
+- No.1978
+- No.2292
+- No.2581
+- No.2775
+- No.2839
+- No.2869
+- No.3009
+- No.3053
+- No.4153
+- No.4948
+- No.4949
+- No.9012
+- No.9020
+- No.10250
+- No.10757
+- No.10773
+- No.10828
+- No.11653
