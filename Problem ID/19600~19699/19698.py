@@ -1,0 +1,6 @@
+line = input().split()
+n = int(line[0])
+w = int(line[1])
+h = int(line[2])
+l = int(line[3])
+print(min(n, w//l * h//l))

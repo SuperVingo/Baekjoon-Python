@@ -139,4 +139,29 @@ Solved Problem<br>
 - No.14910<br>
 - No.16430<br>
 - No.16673<br>
+-------------<br>
+- No.6768<br>
+- No.6810<br>
+- No.8674<br>
+- No.8718<br>
+- No.8723<br>
+- No.11466<br>
+- No.11549<br>
+- No.13136<br>
+- No.13580<br>
+- No.13597<br>
+- No.13610<br>
+- No.14038<br>
+- No.14065<br>
+- No.14173<br>
+- No.14264<br>
+- No.14470<br>
+- No.14623<br>
+- No.14924<br>
+- No.14935<br>
+- No.15025<br>
+- No.15700<br>
+- No.15873<br>
+- No.16428<br>
+- No.23825<br>
 </details>
