@@ -140,6 +140,20 @@ Solved Problem<br>
 - No.16430<br>
 - No.16673<br>
 -------------<br>
+- No.1271<br>
+- No.1550<br>
+- No.2338<br>
+- No.2475<br>
+- No.2558<br>
+- No.2845<br>
+- No.2914<br>
+- No.3003<br>
+- No.5337<br>
+- No.5338<br>
+- No.5339<br>
+- No.5522<br>
+- No.5554<br>
+- No.6749<br>
 - No.6768<br>
 - No.6810<br>
 - No.8674<br>
@@ -163,5 +177,7 @@ Solved Problem<br>
 - No.15700<br>
 - No.15873<br>
 - No.16428<br>
+- No.17362<br>
+- No.19698<br>
 - No.23825<br>
 </details>
