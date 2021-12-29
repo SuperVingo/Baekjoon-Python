@@ -193,7 +193,7 @@ Solved Problem<br>
 - No.10170<br>
 - No.10699<br>
 - No.10926<br>
-- No.11283<br>
+- No.11282<br>
 - No.11382<br>
 - No.11942<br>
 - No.11943<br>
