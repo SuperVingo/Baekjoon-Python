@@ -296,5 +296,14 @@ Solved Problem<br>
 - No.15751<br>
 - No.17903<br>
 - No.18005<br>
-- No.15751<br>
+- No.18330<br>
+- No.18408<br>
+- No.18411<br>
+- No.18414<br>
+- No.19602<br>
+- No.19698<br>
+- No.20215<br>
+- No.20232<br>
+- No.20352<br>
+- No.20353<br>
 </details>
