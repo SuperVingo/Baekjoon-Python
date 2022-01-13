@@ -1,0 +1,23 @@
+n = int(input())
+q1 = 0
+q2 = 0
+q3 = 0
+q4 = 0
+axis = 0
+for i in range(n):
+    l = list(map(int, input().split()))
+    if(l[0] > 0 and l[1] > 0):
+        q1 += 1
+    elif(l[0] < 0 and l[1] > 0):
+        q2 += 1
+    elif(l[0] < 0 and l[1] < 0):
+        q3 += 1
+    elif(l[0] > 0 and l[1] < 0):
+        q4 += 1
+    elif(l[0] == 0 or l[1] == 0):
+        axis += 1
+print('Q1:', q1)
+print('Q2:', q2)
+print('Q3:', q3)
+print('Q4:', q4)
+print('AXIS:', axis)
