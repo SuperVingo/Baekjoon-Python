@@ -412,3 +412,8 @@ Solved Problem<br>
 - No.24083<br>
 - No.24087<br>
 </details>
+
+<details>
+<summary><h4>2022-1-13<h4></summary>
+- No.9610<br>
+</details>
