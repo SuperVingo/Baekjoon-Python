@@ -5,9 +5,10 @@ while True:
 
     carry = False
     cnt = 0
-    leng = min(len(line[0]), len(line[1]))
-    for i in range(leng):
-        print(int(line[0][-i-1]), int(line[1][-i-1]))
+    leng = max(len(line[0]), len(line[1]))
+    line[0] = '0' * (leng - len(line[0])) + line[0]
+    line[1] = '0' * (leng - len(line[1])) + line[1]
+    for i in range(len(line[0])):
         a = int(line[0][-i-1]) + int(line[1][-i-1])
         if(carry):
             a += 1
@@ -18,11 +19,5 @@ while True:
         else:
             carry = False
         
-    #if(carry):
-    #    if(len(line[0]) > len(line[1])):
-    #        if(int(line[0][-leng]) == 9):
-    #            cnt += 1
-    #    else:
-    #        if(int(line[1][-leng]) == 9):
-    #            cnt += 1
+        #print(int(line[0][-i-1]), int(line[1][-i-1]), a)
     print(cnt)
