@@ -1,7 +1,0 @@
-line = input().split()
-a = int(line[0])
-b = int(line[1])
-line = input().split()
-c = int(line[0])
-d = int(line[1])
-print(min(a+d, b+c))

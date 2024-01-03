@@ -1,6 +1,0 @@
-arg = input().split()
-print(int(arg[0]) + int(arg[1]))
-print(int(arg[0]) - int(arg[1]))
-print(int(arg[0]) * int(arg[1]))
-print(int(arg[0]) // int(arg[1]))
-print(int(arg[0]) % int(arg[1]))

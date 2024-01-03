@@ -1,2 +1,0 @@
-line = input().split()
-print(int(line[2])//int(line[1]), int(line[2])%int(line[1]) )

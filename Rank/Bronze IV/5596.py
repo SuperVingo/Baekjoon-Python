@@ -1,5 +1,0 @@
-line = input().split()
-a1 = int(line[0]) + int(line[1]) + int(line[2]) + int(line[3])
-line = input().split()
-b1 = int(line[0]) + int(line[1]) + int(line[2]) + int(line[3])
-print(max(a1, b1))
