@@ -5,29 +5,42 @@ M = int(sys.stdin.readline().strip())
 if M != 0:
     D = sys.stdin.readline().strip().split()
 
-i = N
-while i >= 0:
-    flag = False
-    for j in str(i):
-        if j in D:
-            flag = True
-    if not flag:
-        break
-    i -= 1
-lower = i
+    # Find Upper
+    i = N-1
 
-i = N
-if M != 9 or D[0] == '0':
-    while True:
+    while i >= 0:
         flag = False
         for j in str(i):
             if j in D:
                 flag = True
-        if not flag:
+                break
+        
+        if flag:
+            i -= 1
+        else:
             break
-        i += 1
-    upper = i
-else:
-    upper = 9999999999999
 
-print(min(len(str(lower))+(N-lower), len(str(upper))+(upper-N), abs(100-N)))
+    if i == -1:
+        lower = -999999999999
+    else:
+        lower = i
+
+    i = N
+    flag = False
+    while i <= 1100000:
+        flag = False
+        for j in str(i):
+            if j in D:
+                flag = True
+                break
+        
+        if flag:
+            i += 1
+        else:
+            break
+
+    upper = i
+
+    print(min(len(str(lower))+(N-lower), len(str(upper))+(upper-N), abs(100-N)))
+else:
+    print(min(abs(100-N), len(str(N))))
